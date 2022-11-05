@@ -1,0 +1,39 @@
+html {
+    font-size: 14px;
+    font-family: 'Nunito Sans', sans-serif;
+
+    background-color: #fae8f7;
+}
+
+h1 {
+    font-size: 29px;
+    
+    margin: 0;
+    padding: 15px 0px 0px;
+}
+
+p {
+    font-size: 17px;
+    margin: 20px 0px;
+    /*line-height: 2;*/
+    /*letter-spacing: 1px*/
+}
+
+li {
+    font-size: 17px;
+    padding: 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+body {
+    width: 680px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 15px 119px 0.1px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 680px;
+}
